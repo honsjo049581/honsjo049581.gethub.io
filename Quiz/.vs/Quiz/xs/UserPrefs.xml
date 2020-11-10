@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6760E601-D167-8717-8AFD-AB332D1BE65C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameLoop.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameLoop.cs" Line="112" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Quiz" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameLoop.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a46344f6-d77b-4811-b228-f9e5e7a77043" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
